@@ -14,7 +14,6 @@
 
 💡 Goals for 2025:
 - 💼 Land my first ML internship/job
-- 🧠 Publish an ML tutorial series in Afan Oromo
 - 📈 developing LLM in afan oromo
 
 📫 How to reach me:
